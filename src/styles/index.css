@@ -8,7 +8,7 @@ h4 {
 }
 
 .home-header {
-  padding: 200px 0;
+  padding: 142px 0;
   background-image: url(./../images/bg.jpg);
 }
 
@@ -37,4 +37,13 @@ h4 {
   margin-top: 50px;
   display: flex;
   flex-wrap: wrap;
+}
+
+#ondaSuperior{
+  position: absolute;
+  top: 475px;
+}
+
+#ondaInferior{
+  position: absolute;
 }

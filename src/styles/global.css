@@ -53,9 +53,18 @@ a {
   padding: 0 16px;
 }
 
+#cabecalho{
+  height: 400px;
+}
+
 .bg-config-default-fixed {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
+}
+
+#caixaInferior{
+  position: sticky;
+  bottom: 30px;
 }
